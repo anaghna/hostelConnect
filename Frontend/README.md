@@ -39,4 +39,3 @@
 
 ```bash
 git clone https://github.com/your-username/hostelconnect.git
-cd hostelconnect/Frontend
