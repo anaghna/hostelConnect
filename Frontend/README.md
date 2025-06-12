@@ -1,50 +1,42 @@
-# Welcome to your Expo app 👋
+# 🏠 HostelConnect
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**HostelConnect** is a mobile app built with **React Native (Expo)** to help students and professionals easily find hostels and PG accommodations. Hostel owners can manage listings and update vacancies in real time. The app offers filtering, food discovery, and comparison tools for better decision-making.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+### For Users (Students/Professionals):
+- 🔍 Search hostels/PGs by rent, amenities, and preferences
+- 🎯 Apply filters and sort search results
+- 💬 View hostel details, including room types, food options, and reviews
+- 🧑‍🤝‍🧑 View resident community info (e.g., hobbies, background)
+- 🍱 Discover nearby affordable food services
+- 🧾 Compare up to 3 hostels side-by-side
+- 📌 Save favorite listings for later
 
-2. Start the app
+### For Hostel/PG Owners:
+- 🛏️ Create and manage listings
+- 🔁 Real-time vacancy updates
+- 🏷️ Set rent, amenities, and room types
+- 📜 View vacancy history and undo recent changes
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧑‍💻 Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+| Layer        | Tech                              |
+|--------------|------------------------------------|
+| Frontend     | [React Native](https://reactnative.dev/) (via Expo) |
+| Backend      | Node.js with Express               |
+| Database     | MongoDB with Mongoose              |
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📱 Getting Started
 
-When you're ready, run:
+### 1. Clone the repository
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/your-username/hostelconnect.git
+cd hostelconnect/Frontend
