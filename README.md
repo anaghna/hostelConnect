@@ -41,4 +41,4 @@ Other Tools: Axios for API communication, and GitHub for version control and col
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/KaviyaMR123/HostelConnect.git
+git clone https://github.com/anaghna/hostelConnect.git
