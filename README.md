@@ -34,6 +34,7 @@ Authentication: JWT (JSON Web Tokens) – for secure login across student, hoste
 
 Other Tools: Axios for API communication, and GitHub for version control and collaboration.
 
+---
 
 ## 📱 Getting Started
 
