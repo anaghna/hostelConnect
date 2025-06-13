@@ -24,14 +24,16 @@
 ---
 
 ## 🧑‍💻 Tech Stack
+Frontend: React Native – for building a responsive, cross-platform mobile UI.
 
-| Layer        | Tech                              |
-|--------------|------------------------------------|
-| Frontend     | [React Native](https://reactnative.dev/) (via Expo) |
-| Backend      | Node.js with Express               |
-| Database     | MongoDB with Mongoose              |
+Backend: Node.js with Express.js – to manage RESTful APIs and server-side logic.
 
----
+Database: MongoDB – for storing user data, hostel details, and service listings in a flexible NoSQL format.
+
+Authentication: JWT (JSON Web Tokens) – for secure login across student, hostel owner, and service provider roles.
+
+Other Tools: Axios for API communication, and GitHub for version control and collaboration.
+
 
 ## 📱 Getting Started
 
